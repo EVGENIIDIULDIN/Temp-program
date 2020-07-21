@@ -1,0 +1,8 @@
+﻿  ConsoleApplication18.cpp
+c:\users\евгений\source\repos\consoleapplication18\consoleapplication18\consoleapplication18.cpp(29): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\евгений\source\repos\consoleapplication18\consoleapplication18\consoleapplication18.cpp(30): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+  ConsoleApplication18.vcxproj -> C:\Users\Евгений\source\repos\ConsoleApplication18\x64\Debug\ConsoleApplication18.exe

@@ -1,0 +1,45 @@
+//---------------------------------------------------------------------------
+
+#ifndef Karta_mira9H
+#define Karta_mira9H
+//---------------------------------------------------------------------------
+#include <System.Classes.hpp>
+#include <Vcl.Controls.hpp>
+#include <Vcl.StdCtrls.hpp>
+#include <Vcl.Forms.hpp>
+#include <Data.DB.hpp>
+#include <Data.Win.ADODB.hpp>
+//---------------------------------------------------------------------------
+class TForm9 : public TForm
+{
+__published:	// IDE-managed Components
+	TButton *Button1;
+	TADOQuery *ADOQuery4;
+	TADOQuery *ADOQuery3;
+	TADOQuery *ADOQuery2;
+	TADOQuery *ADOQuery1;
+	TEdit *Edit5;
+	TEdit *Edit4;
+	TButton *Button4;
+	TEdit *Edit3;
+	TButton *Button7;
+	TEdit *Edit2;
+	TButton *Button6;
+	TButton *Button5;
+	TEdit *Edit1;
+	TCheckBox *CheckBox1;
+	TButton *Button3;
+	TButton *Button2;
+	TLabel *Label5;
+	TLabel *Label4;
+	TLabel *Label3;
+	TLabel *Label2;
+	TLabel *Label1;
+private:	// User declarations
+public:		// User declarations
+	__fastcall TForm9(TComponent* Owner);
+};
+//---------------------------------------------------------------------------
+extern PACKAGE TForm9 *Form9;
+//---------------------------------------------------------------------------
+#endif

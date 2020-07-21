@@ -1,0 +1,15 @@
+Что будет выведено на экран в результате работы данного кода?
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	int sum = 0;
+	for (int x = 0; x < 4; x++)
+	{
+		sum = sum + x;
+	}
+	cout << sum;
+	return 0;
+}

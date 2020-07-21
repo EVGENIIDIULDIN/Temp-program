@@ -1,0 +1,3 @@
+﻿  ConsoleApplication26.cpp
+c:\users\евгений\source\repos\consoleapplication26\consoleapplication26\consoleapplication26.cpp(30): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  ConsoleApplication26.vcxproj -> C:\Users\Евгений\source\repos\ConsoleApplication26\x64\Debug\ConsoleApplication26.exe

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.423,B:\RAD\Project1PCH1.h=C:\Users\Евгений\Desktop\Umnozh\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.505,B:\RAD\Unit2.dfm=C:\Users\Евгений\Desktop\Umnozh.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.953,B:\RAD\Project1.cbproj=C:\Users\Евгений\Desktop\Umnozh\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.638,=B:\RAD\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.505,B:\RAD\Unit2.cpp=C:\Users\Евгений\Desktop\Umnozh.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.747,=B:\RAD\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.505,B:\RAD\Unit2.h=C:\Users\Евгений\Desktop\Umnozh.h</Transaction>
+  </Transactions>
+</BorlandProject>

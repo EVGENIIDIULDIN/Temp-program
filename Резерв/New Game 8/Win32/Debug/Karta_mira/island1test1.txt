@@ -1,0 +1,11 @@
+Заполните пропуски в коде программы.
+Программа должна выводить на экран сообщение "I love programming!"
+
+#include <iostream>
+using namespace ___;
+
+int main ()
+{
+	cout __ "I love programming!";
+	return _;
+}

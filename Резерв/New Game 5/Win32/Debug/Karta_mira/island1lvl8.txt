@@ -1,0 +1,14 @@
+Заполните пропуски в коде программы.
+Программа должна вывести на экран сообщение "Hello world!" 5 раз.
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	for (___ i = 0; i < _; i++)
+	{
+		____ << "Hello world!";
+	}
+	return 0;
+}

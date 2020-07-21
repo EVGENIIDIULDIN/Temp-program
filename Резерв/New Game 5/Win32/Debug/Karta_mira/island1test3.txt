@@ -1,0 +1,19 @@
+Что будет выведено на экран в результате работы данного кода?
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	int a = 15;
+	int b = 10;
+	if ((a + b) < 20)
+	{
+		cout << a + 1;
+	}
+	else
+	{
+		cout << b + 2;
+	}	
+	return 0;
+}

@@ -1,0 +1,1 @@
+﻿B:\Uzgu\OpenCV2\ConsoleApplication16\ConsoleApplication16.vcxproj(68,5): error MSB4019: импортированный проект "B:\Desktop\OpenCV\OpenCV_Debug.props" не обнаружен. Проверьте правильность пути в объявлении <Import> и убедитесь в наличии файла на диске.
